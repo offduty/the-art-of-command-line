@@ -3,6 +3,8 @@
 ]
 
 
+![Alt](https://repobeats.axiom.co/api/embed/f579b450f469d5f7aac8dd0417f9ab3809f6545e.svg "Repobeats analytics image")
+
 # The Art of Command Line
 
 [![Join the chat at https://gitter.im/jlevy/the-art-of-command-line](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jlevy/the-art-of-command-line?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
