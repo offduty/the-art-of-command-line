@@ -2,7 +2,6 @@
 [English](README.md), [Español](README-es.md), [Italiano](README-it.md), [日本語](README-ja.md), [한국어](README-ko.md), [Português](README-pt.md), [Русский](README-ru.md), [Slovenščina](README-sl.md), [Українська](README-uk.md), [中文](README-zh.md)
 ]
 
-
 ![Alt](https://repobeats.axiom.co/api/embed/f579b450f469d5f7aac8dd0417f9ab3809f6545e.svg "Repobeats analytics image")
 
 # The Art of Command Line
